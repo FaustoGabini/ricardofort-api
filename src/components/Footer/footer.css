@@ -1,0 +1,18 @@
+.footerContainer {
+  display: flex;
+  flex-direction: column;
+  font: 16px/1.5 "Courier New", Arial, sans-serif;
+  margin-top: 50px;
+  text-align: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.twitterLink {
+  color: black;
+  text-decoration: none;
+}
+
+.gif {
+  width: 80px;
+}

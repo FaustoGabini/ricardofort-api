@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.content {
+  max-width: 600px;
+  padding: 10px;
+}
+
+.sub-title {
+  font-family: "Bangers", cursive;
+  font-size: 32px;
+}
+
+@media only screen and (max-width: 400px) {
+  .content {
+    max-width: 350px;
+    padding: 0px;
+  }
+}

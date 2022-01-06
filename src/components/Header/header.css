@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&display=swap");
+.headerContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  text-align: left;
+}
+
+.title {
+  font-family: "Bangers", cursive;
+  font-size: 48px;
+}
+.description {
+  font: 16px/1.5 "Courier New", Arial, sans-serif;
+}
